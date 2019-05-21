@@ -22,9 +22,9 @@ Run:
 ```
 After it's packaged into an .exe, I just copy the phoneapp folder in the dist folder to the root of the C:\ drive and then create a shortcut to phoneapp.exe on the user's desktop that they can run.
 
-### Instructions
+## Instructions
 
-
+![alt text](https://github.com/JacobG04/phone_message/blob/master/images/phone_message_screencap.PNG)
 
 ## Built With
 
