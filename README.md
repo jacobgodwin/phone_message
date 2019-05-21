@@ -37,7 +37,7 @@ After it's packaged into an .exe, I just copy the phoneapp folder in the dist fo
 
 ## Authors
 
-* **Jacob Godwin** - *Initial work* - [JacobG04](https://github.com/JacobG04)
+* **Jacob Godwin** - [JacobG04](https://github.com/JacobG04)
 
 ## License
 
