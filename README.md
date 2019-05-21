@@ -24,6 +24,11 @@ After it's packaged into an .exe, I just copy the phoneapp folder in the dist fo
 
 ## Instructions
 
+* Launch the app by double-clicking the .exe
+* The "To:" button will resolve a name or email address to the Outlook address book.
+* Fill in desired fields and press "Send". An Outlook message window will appear to verify the informatin looks correct and then you can send the email.
+* Click "Exit" to close the app.
+
 ![alt text](https://github.com/JacobG04/phone_message/blob/master/images/phone_message_screencap.PNG)
 
 ## Built With
