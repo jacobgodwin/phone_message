@@ -16,8 +16,10 @@ Packaging into .exe:
 
 Using pyinstaller, run the below command, modified with your directories for distpath and workpath.
 
-Run pyinstaller --noconsole --onedir --distpath 'path where the bundled app should go (do not keep quotes)' --workpath 'where to put temp work files (do not keep quotes)' --icon=images\gator.ico phoneapp.py
-
+Run:
+```
+ pyinstaller --noconsole --onedir --distpath 'path where the bundled app should go (do not keep quotes)' --workpath 'where to put temp work files (do not keep quotes)' --icon=images\gator.ico phoneapp.py
+```
 After it's packaged into an .exe, I just copy the phoneapp folder in the dist folder to the root of the C:\ drive and then create a shortcut to phoneapp.exe on the user's desktop that they can run.
 
 ### Instructions
