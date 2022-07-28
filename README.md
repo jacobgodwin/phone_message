@@ -40,7 +40,7 @@ After it's packaged into an .exe, I just copy the phoneapp folder to the root of
 
 ## Authors
 
-* **Jacob Godwin** - [JacobG04](https://github.com/JacobG04)
+* **Jacob Godwin** - [jacobgodwin](https://github.com/jacobgodwin)
 
 ## License
 
